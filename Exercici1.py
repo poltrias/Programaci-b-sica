@@ -1,3 +1,4 @@
+#EXERCICI 1 SENSE INPUTS
 numero1=9.5
 numero2=2.3
 

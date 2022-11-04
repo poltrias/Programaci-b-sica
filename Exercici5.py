@@ -1,3 +1,4 @@
+#DIAGRAMA DE FLUX AMB INPUTS
 estic_a_casa=True
 while estic_a_casa is True:
     paja=input("Paja?: ")
